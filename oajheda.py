@@ -1,1 +1,1 @@
-print("AKDbahwbd aw dadfk akf doad")
+a = 1
