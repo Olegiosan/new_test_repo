@@ -1,2 +1,1 @@
-print("HEAPDJAWD ADAD")
-print("AOJBWDAWKD12123n1 k4r")
+print("HelloWorld")
